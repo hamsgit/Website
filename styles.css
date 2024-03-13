@@ -1,0 +1,51 @@
+body
+{
+	background-color:#e6f3ff; 
+	padding:
+}
+
+.tagline
+{
+	color:blueviolet;
+	font-style:italic;
+		
+}
+
+img
+{
+	float:right;
+}
+
+.price
+{
+	 font-size:25px;
+	 font-weight:bold;
+	 padding-top:150px;
+}
+
+table
+{
+	border:1px solid black;
+	width:100%;
+	
+}
+td,th
+{
+	text-align:Left;
+	padding:16px;
+}
+
+footer
+{
+	text-align:center;
+	font-family:'Times New Roman',Times,serif;
+	font-size:10px;
+	padding:3px;
+	background-color:orange; /*footer colour*/
+	color:black; /*font colour in the footer */
+	position:fixed; /*the text should not move*/
+	bottom:0; /* no more margin under footer*/
+	left:0;
+	width:100%; /*the footer comes for full length of page at bottom*/
+	
+}
